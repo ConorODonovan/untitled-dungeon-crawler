@@ -35,3 +35,5 @@ else
 }
 
 roomType = "Unassigned";
+
+depth = y
